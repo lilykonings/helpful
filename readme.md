@@ -22,6 +22,15 @@ Helpful
 - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Wes Bos' React Tutorial](https://reactforbeginners.com/) :books:
 
+### Chat Bots
+- [Bot Stash](http://botsfloor.com)
+- [It's Alive](https://itsalive.io/)
+
+### Markdown
+- [StackEdit](https://stackedit.io)
+- [Dillinger](http://dillinger.io/)
+- [Markdown Emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
 ### Github Gist
 - [Bl.ocks](http://bl.ocks.org)
 - [Gist.io](http://gist.io)
@@ -35,3 +44,4 @@ Helpful
 
 ## Life
 - [Nerd Wallet](https://nerdwallet.com)
+- [Ask Jelly](https://askjelly.com)
