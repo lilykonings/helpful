@@ -7,14 +7,16 @@ Helpful
 - [Design](#design)
 - [Life](#life)
 
-:mask:  Broken/Has bugs
+:mask:  Broken/Has bugs  
 :books: Tutorial
 
+<!-- PRODUCTIVITY -->
 ## Productivity
 - [Toby](https://gettoby.com/)
 - [Dewey](deweyapp.io) :mask:
 - [Gifrocket](http://gifrocket.com/)
 
+<!-- DEVELOPMENT -->
 ## Development
 - [Ngrok](https://ngrok.com/)
 
@@ -35,6 +37,7 @@ Helpful
 - [Bl.ocks](http://bl.ocks.org)
 - [Gist.io](http://gist.io)
 
+<!-- DESIGN -->
 ## Design
 - [Sans Francisco](http://sansfrancis.co/)
 - [Color Claim](http://www.vanschneider.com/colors/)
@@ -42,6 +45,10 @@ Helpful
 - [Siteinspire](http://siteinspire.com)
 - [Httpster](http://httpster.net)
 
+### Prototyping
+- [Walkie Bot](https://walkiebot.co/)
+
+<!-- LIFE -->
 ## Life
 - [Nerd Wallet](https://nerdwallet.com)
 - [Ask Jelly](https://askjelly.com)
