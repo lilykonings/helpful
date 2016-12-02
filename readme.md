@@ -1,7 +1,5 @@
 Helpful
 ======
-
-## Contents
 - [Productivity](#productivity)
 - [Development](#development)
   - [React](#react)
@@ -9,13 +7,20 @@ Helpful
 - [Design](#design)
 - [Life](#life)
 
+:mask:  Broken/Has bugs
+:books: Tutorial
+
 ## Productivity
 - [Toby](https://gettoby.com/)
+- [Dewey](deweyapp.io) :mask:
+- [Gifrocket](http://gifrocket.com/)
 
 ## Development
+- [Ngrok](https://ngrok.com/)
+
 ### React
 - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [Wes Bos' React Tutorial](https://reactforbeginners.com/)
+- [Wes Bos' React Tutorial](https://reactforbeginners.com/) :books:
 
 ### Github Gist
 - [Bl.ocks](http://bl.ocks.org)
