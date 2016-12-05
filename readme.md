@@ -15,11 +15,15 @@ Helpful
 :mask:  Broken/Has bugs  
 :books: Tutorial
 
+----------
+
 <!-- PRODUCTIVITY -->
 ## Productivity
 - [Toby](https://gettoby.com/)
 - [Dewey](deweyapp.io) :mask:
 - [Gifrocket](http://gifrocket.com/)
+
+----------
 
 <!-- DEVELOPMENT -->
 ## Development
@@ -53,6 +57,8 @@ Helpful
 - [Gist.io](http://gist.io)
 - [Defunkt's Gister](http://defunkt.io/gist/)
 
+----------
+
 <!-- DESIGN -->
 ## Design
 - [Sans Francisco](http://sansfrancis.co/)
@@ -69,6 +75,8 @@ Helpful
 
 ### Prototyping
 - [Walkie Bot](https://walkiebot.co/)
+
+----------
 
 <!-- LIFE -->
 ## Life
