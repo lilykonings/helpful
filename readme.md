@@ -18,7 +18,16 @@ Helpful
 
 <!-- DEVELOPMENT -->
 ## Development
+- [Easing Functions](http://easings.net/)
 - [Ngrok](https://ngrok.com/)
+- [Prose](http://prose.io/)
+- [Nativefier](https://github.com/jiahaog/nativefier)
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+- [Quench](http://quenchjs.com/)
+
+### Jekyll
+- [Jekyll Tips](http://jekyll.tips/)
+- [Jekyll Admin](https://github.com/jekyll/jekyll-admin)
 
 ### React
 - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
@@ -36,14 +45,20 @@ Helpful
 ### Github Gist
 - [Bl.ocks](http://bl.ocks.org)
 - [Gist.io](http://gist.io)
+- [Defunkt's Gister](http://defunkt.io/gist/)
 
 <!-- DESIGN -->
 ## Design
 - [Sans Francisco](http://sansfrancis.co/)
 - [Color Claim](http://www.vanschneider.com/colors/)
 - [Color Hunt](http://colorhunt.co/)
+- [Brand Colors](https://brandcolors.net/)
+
+### Inspiration
 - [Siteinspire](http://siteinspire.com)
 - [Httpster](http://httpster.net)
+- [Inspiring Online](http://inspiring.online/)
+- [Designers Watch](http://designers.watch/)
 
 ### Prototyping
 - [Walkie Bot](https://walkiebot.co/)
