@@ -2,9 +2,14 @@ Helpful
 ======
 - [Productivity](#productivity)
 - [Development](#development)
+  - [Jekyll](#jekyll)
   - [React](#react)
+  - [Chat Bots](#chat-bots)
+  - [Markdown](#markdown)
   - [Github Gist](#github-gist)
 - [Design](#design)
+  - [Inspiration](#inspiration)
+  - [Prototyping](#prototyping)
 - [Life](#life)
 
 :mask:  Broken/Has bugs  
