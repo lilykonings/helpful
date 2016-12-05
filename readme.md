@@ -13,74 +13,75 @@ Helpful
 - [Life](#life)
 
 :mask:  Broken/Has bugs  
-:books: Tutorial
+:books: Tutorial  
+:sparkles: Style points
 
 ----------
 
 <!-- PRODUCTIVITY -->
 ## Productivity
-- [Toby](https://gettoby.com/)
-- [Dewey](deweyapp.io) :mask:
-- [Gifrocket](http://gifrocket.com/)
+- [Toby](https://gettoby.com/) Chrome tab management
+- [Dewey](http://deweyapp.io) Bookmarking Chrome extension :mask:
+- [Gifrocket](http://gifrocket.com/) Create gif from video :sparkles:
 
 ----------
 
 <!-- DEVELOPMENT -->
 ## Development
-- [Easing Functions](http://easings.net/)
-- [Ngrok](https://ngrok.com/)
-- [Prose](http://prose.io/)
-- [Nativefier](https://github.com/jiahaog/nativefier)
-- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
-- [Quench](http://quenchjs.com/)
-- [Github Repo Size](https://github.com/harshjv/github-repo-size)
+- [Easing Functions](http://easings.net/) CSS animation easing functions
+- [Ngrok](https://ngrok.com/) Secure tunnels to localhost
+- [Prose](http://prose.io/) Content editor for GitHub :sparkles:
+- [Nativefier](https://github.com/jiahaog/nativefier) Make any web page a desktop application
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/) Examples of jQuery functionality without jQuery
+- [Quench](http://quenchjs.com/) Gulp file generator
+- [Github Repo Size](https://github.com/harshjv/github-repo-size) Chrome extension to display repository size on GitHub
 
 ### Jekyll
-- [Jekyll Tips](http://jekyll.tips/)
-- [Jekyll Admin](https://github.com/jekyll/jekyll-admin)
+- [Jekyll Tips](http://jekyll.tips/) :books:
+- [Jekyll Admin](https://github.com/jekyll/jekyll-admin) CMS GUI for Jekyll
 
 ### React
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [Wes Bos' React Tutorial](https://reactforbeginners.com/) :books:
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) Adding React debugging tools to the Chrome Developer Tools
+- [React for Beginners](https://reactforbeginners.com/) :books:
 
 ### Chat Bots
-- [Bot Stash](http://botsfloor.com)
-- [It's Alive](https://itsalive.io/)
+- [Bot Stash](http://botsfloor.com) A curated directory of chat bot resources &amp; tools
+- [It's Alive](https://itsalive.io/) Create a Facebook bot in minutes
 
 ### Markdown
-- [StackEdit](https://stackedit.io)
-- [Dillinger](http://dillinger.io/)
-- [Markdown Emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [StackEdit](https://stackedit.io) In-browser markdown editor
+- [Dillinger](http://dillinger.io/) Online cloud-enabled, HTML5, buzzword-filled Markdown editor
+- [Markdown Emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) Emoji cheatsheet for Github and more
 
 ### Github Gist
-- [Bl.ocks](http://bl.ocks.org)
-- [Gist.io](http://gist.io)
-- [Defunkt's Gister](http://defunkt.io/gist/)
+- [Bl.ocks](http://bl.ocks.org) Simple viewer for sharing code examples hosted on GitHub Gist
+- [Gist.io](http://gist.io) Writing for hackers
+- [Defunkt's Gister](http://defunkt.io/gist/) Gist command to upload gists from the terminal
 
 ----------
 
 <!-- DESIGN -->
 ## Design
-- [Sans Francisco](http://sansfrancis.co/)
-- [Color Claim](http://www.vanschneider.com/colors/)
-- [Color Hunt](http://colorhunt.co/)
-- [Brand Colors](https://brandcolors.net/)
-- [WhatFont](http://www.chengyinliu.com/whatfont.html)
+- [Sans Francisco](http://sansfrancis.co/) A collection of design tools
+- [Color Claim](http://www.vanschneider.com/colors/) Tobias van Schneider's favorite color combinations
+- [Color Hunt](http://colorhunt.co/) A place to share and discover color palettes
+- [Brand Colors](https://brandcolors.net/) Official color codes for the world's biggest brands
+- [WhatFont](http://www.chengyinliu.com/whatfont.html) Inspect fonts in webpages
 
 ### Inspiration
 - [Siteinspire](http://siteinspire.com)
-- [Httpster](http://httpster.net)
+- [Httpster](http://httpster.net) :sparkles:
 - [Inspiring Online](http://inspiring.online/)
-- [Designers Watch](http://designers.watch/)
+- [Designers Watch](http://designers.watch/) Must-see documentaries for designers &amp; artists.
 
 ### Prototyping
-- [Walkie Bot](https://walkiebot.co/)
+- [Walkie Bot](https://walkiebot.co/) Design your Slack bot dialogue
 
 ----------
 
 <!-- LIFE -->
 ## Life
-- [Nerd Wallet](https://nerdwallet.com)
-- [Ask Jelly](https://askjelly.com)
-- [Figure It Out](http://fioapp.co/)
-- [Videostream for Chromecast](http://getvideostream.com)
+- [Nerd Wallet](https://nerdwallet.com) Financial tools and objective advice on banking
+- [Ask Jelly](https://askjelly.com) Social question and answer app
+- [Figure It Out](http://fioapp.co/) Timezone visualization :sparkles:
+- [Videostream for Chromecast](http://getvideostream.com) Stream local files to Chromecast
