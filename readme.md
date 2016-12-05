@@ -29,13 +29,14 @@ Helpful
 - [Nativefier](https://github.com/jiahaog/nativefier)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [Quench](http://quenchjs.com/)
+- [Github Repo Size](https://github.com/harshjv/github-repo-size)
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/)
 - [Jekyll Admin](https://github.com/jekyll/jekyll-admin)
 
 ### React
-- [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Wes Bos' React Tutorial](https://reactforbeginners.com/) :books:
 
 ### Chat Bots
@@ -58,6 +59,7 @@ Helpful
 - [Color Claim](http://www.vanschneider.com/colors/)
 - [Color Hunt](http://colorhunt.co/)
 - [Brand Colors](https://brandcolors.net/)
+- [WhatFont](http://www.chengyinliu.com/whatfont.html)
 
 ### Inspiration
 - [Siteinspire](http://siteinspire.com)
@@ -72,3 +74,5 @@ Helpful
 ## Life
 - [Nerd Wallet](https://nerdwallet.com)
 - [Ask Jelly](https://askjelly.com)
+- [Figure It Out](http://fioapp.co/)
+- [Videostream for Chromecast](http://getvideostream.com)
