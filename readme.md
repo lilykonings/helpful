@@ -68,6 +68,7 @@ Helpful
 - [Color Hunt](http://colorhunt.co/) A place to share and discover color palettes
 - [Brand Colors](https://brandcolors.net/) Official color codes for the world's biggest brands
 - [WhatFont](http://www.chengyinliu.com/whatfont.html) Inspect fonts in webpages
+- [Fonts In Use](http://fontsinuse.com/)
 
 ### Inspiration
 - [Siteinspire](http://siteinspire.com)
