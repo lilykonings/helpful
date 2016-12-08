@@ -43,6 +43,7 @@ Helpful
 ### React
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) Adding React debugging tools to the Chrome Developer Tools
 - [React for Beginners](https://reactforbeginners.com/) :books:
+- [React.js for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 
 ### Chat Bots
 - [Bot Stash](http://botsfloor.com) A curated directory of chat bot resources &amp; tools
