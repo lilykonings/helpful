@@ -84,6 +84,7 @@ Helpful
 
 ### Prototyping
 - [Walkie Bot](https://walkiebot.co/) Design your Slack bot dialogue
+- [iOS7 Text](http://www.ios7text.com/)
 
 ----------
 
