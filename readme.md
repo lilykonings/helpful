@@ -64,11 +64,17 @@ Helpful
 <!-- DESIGN -->
 ## Design
 - [Sans Francisco](http://sansfrancis.co/) A collection of design tools
+- [The Stocks](http://thestocks.im/)
+
+### Colors
 - [Color Claim](http://www.vanschneider.com/colors/) Tobias van Schneider's favorite color combinations
 - [Color Hunt](http://colorhunt.co/) A place to share and discover color palettes
 - [Brand Colors](https://brandcolors.net/) Official color codes for the world's biggest brands
+
+### Fonts
 - [WhatFont](http://www.chengyinliu.com/whatfont.html) Inspect fonts in webpages
 - [Fonts In Use](http://fontsinuse.com/)
+- [TypeWolf](https://www.typewolf.com/)
 
 ### Inspiration
 - [Siteinspire](http://siteinspire.com)
