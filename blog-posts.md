@@ -15,3 +15,5 @@ Blog Posts
 - [Dan Grover](http://dangrover.com/archive/)
 - [Michael Carrano](https://michaelcarrano.com/)
 - [Owen Williams](http://owenwillia.ms/portfolio/)
+- [Julie Zhuo](https://medium.com/@joulee)
+- [Pieter Levels](https://levels.io/index/)
