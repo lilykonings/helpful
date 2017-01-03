@@ -95,3 +95,5 @@ Helpful
 - [Figure It Out](http://fioapp.co/) Timezone visualization :sparkles:
 - [Videostream for Chromecast](http://getvideostream.com) Stream local files to Chromecast
 - [IO by Bold](https://bold.io/) A space to publish freely :sparkles:
+- [Songkick](https://www.songkick.com) Get notified about personal favorite artists coming to town
+
