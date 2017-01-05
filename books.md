@@ -1,5 +1,7 @@
 Books
 ======
+Reading list as of January 2017
+
 - [What to Eat](http://a.co/9WyFgzz) by Marion Nestle
 - [Cabin Porn: Inspiration for Your Quiet Place Somewhere](http://a.co/hYx0fVp) by Zach Klein and Steven Leckart
 - [CSS Secrets](http://a.co/er9Al8H) by Lea Verou
