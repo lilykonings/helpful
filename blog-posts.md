@@ -8,9 +8,6 @@ Blog Posts
 ### Life
 - [Positive remote working habit - a morning routine](https://rachsmith.com/2016/positive-remote-habits-morning-routine) by Rachael Smith
 
-### Misc
-- [Your customers have mastered emoji. Now it’s your turn.](https://blog.intercom.com/emoji-data-report/) by Intercom
-
 ## Blogs
 - [Cap Watkins](http://blog.capwatkins.com/)
 - [Thomas Park](http://thomaspark.co/)
