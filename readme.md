@@ -81,6 +81,7 @@ Helpful
 - [Httpster](http://httpster.net) :sparkles:
 - [Inspiring Online](http://inspiring.online/)
 - [Designers Watch](http://designers.watch/) Must-see documentaries for designers &amp; artists.
+- [Collect UI](http://collectui.com/)
 
 ### Prototyping
 - [Walkie Bot](https://walkiebot.co/) Design your Slack bot dialogue
