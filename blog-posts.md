@@ -18,3 +18,4 @@ Blog Posts
 - [Julie Zhuo](https://medium.com/@joulee)
 - [Pieter Levels](https://levels.io/index/)
 - [Tobias Van Schneider](http://www.vanschneider.com/blog/)
+- [Joel Califa](http://joelcalifa.com/blog/)
