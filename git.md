@@ -53,3 +53,6 @@ git rm -r --cached path/file
 > - `git clean -f` removes Unstaged UnTracked files ONLY [Type 3]
 > - `git reset --hard` removes Staged Tracked and UnStaged Tracked files ONLY[Type 1, Type 2]
 > - `git stash -u` removes all changes [Type 1, Type 2, Type 3]
+
+### difference between git add -A and git add .[<sup>ref</sup>](http://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add)
+As of Git Version 2.x, there is no functional difference. But prior to that, `git add .` would not stage deleted files while `git add -A` did.
