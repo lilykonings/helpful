@@ -4,9 +4,9 @@ Git Tips
 - Unstaged: files with changes that have not been prepared to be committed.
 - Untracked: files aren't tracked by Git yet. This usually indicates a newly created file.
 - Deleted: file has been deleted and is waiting to be removed from Git.
+
 - Staging area: a place where files can be grouped together before they are "committed" to Git.
 - HEAD: a pointer that holds the position within all different commits. By default HEAD points to the most recent commit, so it can be used as a quick way to reference that commit without having to look up the SHA.
-
 - Add All: use `git add -A .` where the dot stands for the current directory, so everything in and beneath it is added. The `-A` ensures even file deletions are included.
 - Reset: use `git reset <filename>` to remove a file or files from the staging area.
 
