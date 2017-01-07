@@ -65,6 +65,7 @@ Helpful
 ## Design
 - [Sans Francisco](http://sansfrancis.co/) A collection of design tools
 - [The Stocks](http://thestocks.im/)
+- [Style Guides](http://styleguides.io/) Website style guide resources
 
 ### Colors
 - [Color Claim](http://www.vanschneider.com/colors/) Tobias van Schneider's favorite color combinations
@@ -97,4 +98,5 @@ Helpful
 - [Videostream for Chromecast](http://getvideostream.com) Stream local files to Chromecast
 - [IO by Bold](https://bold.io/) A space to publish freely :sparkles:
 - [Songkick](https://www.songkick.com) Get notified about personal favorite artists coming to town
+- [Linkmoji](http://www.🍕💩.ws/)
 
