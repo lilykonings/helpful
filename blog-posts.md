@@ -8,6 +8,9 @@ Blog Posts
 ### Life
 - [Positive remote working habit - a morning routine](https://rachsmith.com/2016/positive-remote-habits-morning-routine) by Rachael Smith
 
+### Interesting
+- [Unsolicited Dating Advice](http://joelcalifa.com/blog/unsolicited-dating-advice/) by Joel Califa (don't let the title fool you, it's about dates as in time)
+
 ## Blogs
 - [Cap Watkins](http://blog.capwatkins.com/)
 - [Thomas Park](http://thomaspark.co/)
