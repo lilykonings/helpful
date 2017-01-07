@@ -11,3 +11,5 @@ Reading list as of January 2017
 - [How to Win Friends and Influence People](http://a.co/dqTECjl) by Dale Carnegie
 - [Everything That Remains](http://a.co/4Q8Qy6A) by Joshua Fields Millburn and Ryan Nicodemus
 - [Hatching Twitter](http://a.co/85pe0wB) by Nick Bilton
+- [Predictably Irrational: The Hidden Forces That Shape Our Decisions](http://a.co/3MAB6cf)
+- [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](http://a.co/3gTtcxG)
