@@ -35,6 +35,8 @@ Helpful
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/) Examples of jQuery functionality without jQuery
 - [Quench](http://quenchjs.com/) Gulp file generator
 - [Github Repo Size](https://github.com/harshjv/github-repo-size) Chrome extension to display repository size on GitHub
+- [StaticGen](https://www.staticgen.com/) List of top open-source static site generators
+- [HTML Arrows](http://htmlarrows.com/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
