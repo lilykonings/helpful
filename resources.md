@@ -8,6 +8,7 @@ Resources
 - [How I hustled my way to a developer job at Khan Academy](http://stephjang.com/blog/khan-academy-job/) by Steph Jang
 - [The Imposter Syndrome](https://medium.com/the-year-of-the-looking-glass/the-imposter-syndrome-9e23e2326d88#.u7vnhgtta) by Julie Zhuo
 - [Getting Critiqued](http://mrmrs.io/writing/2015/10/08/getting-critiqued/) by Adam Morse
+- [How to think about databases](https://nolanlawson.com/2016/02/08/how-to-think-about-databases/)
 
 ### Life
 - [Positive remote working habit - a morning routine](https://rachsmith.com/2016/positive-remote-habits-morning-routine) by Rachael Smith
@@ -26,6 +27,7 @@ Resources
 - [Pieter Levels](https://levels.io/index/)
 - [Tobias Van Schneider](http://www.vanschneider.com/blog/)
 - [Joel Califa](http://joelcalifa.com/blog/)
+- [Nolan Lawson](https://nolanlawson.com/), also by Nolan: [Pocket JavaScript](http://www.pocketjavascript.com/)
 
 ## Studies
 - [Emoji Trends in Business Messaging, 2015-2016](https://blog.intercomassets.com/wp-content/uploads/2016/12/09135612/Intercom-Emoji_Trends_in_Business_Messaging_2015-2016.pdf) by Intercom
