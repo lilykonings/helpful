@@ -8,9 +8,12 @@ Resources
 - [How I hustled my way to a developer job at Khan Academy](http://stephjang.com/blog/khan-academy-job/) by Steph Jang
 - [The Imposter Syndrome](https://medium.com/the-year-of-the-looking-glass/the-imposter-syndrome-9e23e2326d88#.u7vnhgtta) by Julie Zhuo
 - [Getting Critiqued](http://mrmrs.io/writing/2015/10/08/getting-critiqued/) by Adam Morse
-- [How to think about databases](https://nolanlawson.com/2016/02/08/how-to-think-about-databases/)
+- [How to think about databases](https://nolanlawson.com/2016/02/08/how-to-think-about-databases/) by Nolan Lawson
+- [Redesigning Chrome Desktop](https://medium.com/google-design/redesigning-chrome-desktop-769aeb5ab987#.q73hpg7kj) by Sebastien Gabriel
+- [Brief(ish) explanation of how HTTPS works](http://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/) by Rui Figueiredo
 
 ### Life
+- [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
 - [Positive remote working habit - a morning routine](https://rachsmith.com/2016/positive-remote-habits-morning-routine) by Rachael Smith
 
 ### Interesting
