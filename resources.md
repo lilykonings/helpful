@@ -37,3 +37,4 @@ Resources
 - [There's No Place Like a Connected Home: Perspectives on the connected consumer in a world of smart devices](http://www.mckinsey.com/spContent/connected_homes/index.html) by McKinsey &amp; Company
 - [The Definitive Analysis Of ‘Love Actually,’ The Greatest Christmas Movie Of Our Time](http://fivethirtyeight.com/features/the-definitive-analysis-of-love-actually-the-greatest-christmas-movie-of-our-time/) by FiveFiftyEight
 - [Keeping an eye on recruiter behavior](https://cdn.theladders.net/static/images/basicSite/pdfs/TheLadders-EyeTracking-StudyC2.pdf) by The Ladders
+- [Intercom on Onboarding](https://www.intercom.com/books/onboarding) by Intercom
