@@ -8,3 +8,4 @@ Sometimes I find inspirational utterances from the weirdest places.
 - "Any legitimate claim we may have to expertise has a shelf life of about three days. Keeps us busy and keeps our egos in check." - [article](https://www.newfangled.com/responsive-design-at-10000-feet/)
 - On phones, "We’re going to spend the rest of our lives learning how they have changed how we live." - ^ same article
 - "The future is already here. It's just not evenly distributed." - meeting with my manager
+- "The best way to complain is to make things" - James Murphy, shared by Tina Roth Eisenberg in an interview
