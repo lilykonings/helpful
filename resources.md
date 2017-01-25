@@ -11,6 +11,7 @@ Resources
 - [How to think about databases](https://nolanlawson.com/2016/02/08/how-to-think-about-databases/) by Nolan Lawson
 - [Redesigning Chrome Desktop](https://medium.com/google-design/redesigning-chrome-desktop-769aeb5ab987#.q73hpg7kj) by Sebastien Gabriel
 - [Brief(ish) explanation of how HTTPS works](http://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/) by Rui Figueiredo
+- [Let’s Look at 50+ Interesting CSS Properties & Values](https://css-tricks.com/lets-look-50-interesting-css-properties-values/) by Greg Hovanesyan
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
