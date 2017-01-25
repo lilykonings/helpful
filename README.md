@@ -37,6 +37,7 @@ Helpful
 - [Github Repo Size](https://github.com/harshjv/github-repo-size) Chrome extension to display repository size on GitHub
 - [StaticGen](https://www.staticgen.com/) List of top open-source static site generators
 - [HTML Arrows](http://htmlarrows.com/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
+- [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
