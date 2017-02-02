@@ -37,8 +37,7 @@ Helpful
 - [Github Repo Size](https://github.com/harshjv/github-repo-size) Chrome extension to display repository size on GitHub
 - [StaticGen](https://www.staticgen.com/) List of top open-source static site generators
 - [HTML Arrows](http://htmlarrows.com/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
-- [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
-- [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+- [Jam API](https://www.jamapi.xyz/) Turn any site into a JSON accessible api using CSS selectors
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
