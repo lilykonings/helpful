@@ -41,3 +41,4 @@ Resources
 - [The Definitive Analysis Of ‘Love Actually,’ The Greatest Christmas Movie Of Our Time](http://fivethirtyeight.com/features/the-definitive-analysis-of-love-actually-the-greatest-christmas-movie-of-our-time/) by FiveFiftyEight
 - [Keeping an eye on recruiter behavior](https://cdn.theladders.net/static/images/basicSite/pdfs/TheLadders-EyeTracking-StudyC2.pdf) by The Ladders
 - [Intercom on Onboarding](https://www.intercom.com/books/onboarding) by Intercom
+- [The ROI of UX](http://cdn2.hubspot.net/hubfs/416708/Ebooks/The_ROI_of_UX_White_Paper_preview.pdf?t=1463779327924) by Punchkick Interactive
