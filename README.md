@@ -101,5 +101,6 @@ Helpful
 - [Videostream for Chromecast](http://getvideostream.com) Stream local files to Chromecast
 - [IO by Bold](https://bold.io/) A space to publish freely :sparkles:
 - [Songkick](https://www.songkick.com) Get notified about personal favorite artists coming to town
-- [Linkmoji](http://www.🍕💩.ws/)
+- [Linkmoji](http://www.🍕💩.ws/) Turn any link into emoji
+- [Templates for Gmail](http://www.templatesforgmail.com/) Create and customize templates that live in your inbox
 
