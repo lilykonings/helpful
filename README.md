@@ -38,7 +38,7 @@ Helpful
 - [StaticGen](https://www.staticgen.com/) List of top open-source static site generators
 - [HTML Arrows](http://htmlarrows.com/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
 - [Jam API](https://www.jamapi.xyz/) Turn any site into a JSON accessible api using CSS selectors
-- [Web Push Book](https://web-push-book.gauntface.com/) :books:
+- [Web Push Book](https://web-push-book.gauntface.com/) Booklet on implementing push for the web :books:
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
