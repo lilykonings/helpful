@@ -104,4 +104,5 @@ Helpful
 - [Songkick](https://www.songkick.com) Get notified about personal favorite artists coming to town
 - [Linkmoji](http://www.🍕💩.ws/) Turn any link into emoji
 - [Templates for Gmail](http://www.templatesforgmail.com/) Create and customize templates that live in your inbox
+- [Fabulous macOS Tips & Tricks](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.y6jkrubuu)
 
