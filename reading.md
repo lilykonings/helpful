@@ -27,6 +27,7 @@ Resources
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) by Vincent Driessen
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 - [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+- [How to actually ship software that actually works](http://mir.aculo.us/2015/08/25/how-to-actually-ship-software-that-actually-works/) by Thomas Fuchs
 
 ## Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
