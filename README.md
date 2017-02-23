@@ -40,6 +40,7 @@ Helpful
 - [Jam API](https://www.jamapi.xyz/) Turn any site into a JSON accessible api using CSS selectors
 - [Web Push Book](https://web-push-book.gauntface.com/) Booklet on implementing push for the web :books:
 - [HTML Reference](http://htmlreference.io/) A free guide to HTML, featuring all elements and attributes
+- [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/) CSS shapes using a single HTML element :books:
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
