@@ -1,4 +1,4 @@
-Resources
+Reading
 ======
 ## Blogs
 - [Cap Watkins](http://blog.capwatkins.com/)
@@ -13,7 +13,8 @@ Resources
 - [Joel Califa](http://joelcalifa.com/blog/)
 - [Nolan Lawson](https://nolanlawson.com/), also by Nolan: [Pocket JavaScript](http://www.pocketjavascript.com/)
 
-## Work
+## Articles
+### Work
 - [Code and Creative Destruction](http://dangrover.com/2013/07/12/code-and-creative-destruction.html) by Dan Grover
 - [Responsive Design at 10,000 Feet](https://www.newfangled.com/responsive-design-at-10000-feet/) by Chris Butler
 - [Medium's CSS is Actually Pretty F***ing Good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.opq3w9xao) by Jacob Thornton
@@ -29,11 +30,11 @@ Resources
 - [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 - [How to actually ship software that actually works](http://mir.aculo.us/2015/08/25/how-to-actually-ship-software-that-actually-works/) by Thomas Fuchs
 
-## Life
+### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
 - [Positive remote working habit - a morning routine](https://rachsmith.com/2016/positive-remote-habits-morning-routine) by Rachael Smith
 
-## Interesting
+### Interesting
 - [Unsolicited Dating Advice](http://joelcalifa.com/blog/unsolicited-dating-advice/) by Joel Califa (don't let the title fool you, it's about dates as in time)
 
 ## Studies
@@ -43,3 +44,17 @@ Resources
 - [Keeping an eye on recruiter behavior](https://cdn.theladders.net/static/images/basicSite/pdfs/TheLadders-EyeTracking-StudyC2.pdf) by The Ladders
 - [Intercom on Onboarding](https://www.intercom.com/books/onboarding) by Intercom
 - [The ROI of UX](http://cdn2.hubspot.net/hubfs/416708/Ebooks/The_ROI_of_UX_White_Paper_preview.pdf?t=1463779327924) by Punchkick Interactive
+
+## Books
+- [x] [What to Eat](http://a.co/9WyFgzz) by Marion Nestle
+- [x] [Cabin Porn: Inspiration for Your Quiet Place Somewhere](http://a.co/hYx0fVp) by Zach Klein and Steven Leckart
+- [x] [CSS Secrets](http://a.co/er9Al8H) by Lea Verou
+- [x] [The Airbnb Story](http://a.co/a9zjE4N) by Leigh Gallagher
+- [] [Real-World Machine Learning](http://a.co/flsQEr8) by Henrik Brink et al
+- [] [How to Win Friends and Influence People](http://a.co/dqTECjl) by Dale Carnegie
+- [] [Everything That Remains](http://a.co/4Q8Qy6A) by Joshua Fields Millburn and Ryan Nicodemus
+- [] [Hatching Twitter](http://a.co/85pe0wB) by Nick Bilton
+- [] [Predictably Irrational: The Hidden Forces That Shape Our Decisions](http://a.co/3MAB6cf) by Dan Ariely
+- [] [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](http://a.co/3gTtcxG) by Steven D. Levitt and  
+Stephen J. Dubner
+- [] [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) by Abby Covert
