@@ -72,6 +72,7 @@ Helpful
 - [Sans Francisco](http://sansfrancis.co/) A collection of design tools
 - [The Stocks](http://thestocks.im/)
 - [Style Guides](http://styleguides.io/) Website style guide resources
+- [Hero Patterns](http://www.heropatterns.com/) A collection of repeatable SVG background patterns
 
 ### Colors
 - [Color Claim](http://www.vanschneider.com/colors/) Tobias van Schneider's favorite color combinations
