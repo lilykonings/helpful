@@ -41,6 +41,8 @@ Helpful
 - [Web Push Book](https://web-push-book.gauntface.com/) Booklet on implementing push for the web :books:
 - [HTML Reference](http://htmlreference.io/) A free guide to HTML, featuring all elements and attributes
 - [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/) CSS shapes using a single HTML element :books:
+- [Yeoman](http://yeoman.io/) The web's scaffolding tool for modern webapps
+- [Surge](https://surge.sh/) Static web publishing for Front-End Developers
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
