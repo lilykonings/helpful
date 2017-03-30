@@ -12,3 +12,4 @@ Sometimes I find inspirational utterances from the weirdest places.
 - "Work smart, not hard" - [a Reddit post](https://www.reddit.com/r/gifs/comments/5quz1s/work_smart_not_hard/?st=IYJ79DLL&sh=e2c639b4)
 - "Everyday I go to work and I’m amazed this shit still works. I mean you have sooooooooo much code. And you have some code in Seattle. Some code in San Francisco. Portland. Dublin. And it goes…it goes through the internet! And then you can order a Pillow Pet!" - my friend working at Amazon
 - "I’d rather put out a campfire with my face" - a coworker on especially tough projects
+- "It's a painful way to learn but at least you're learning. They're learning too but they don't want you to know about it." - a coworker on tough managers
