@@ -38,6 +38,11 @@ Helpful
 - [StaticGen](https://www.staticgen.com/) List of top open-source static site generators
 - [HTML Arrows](http://htmlarrows.com/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
 - [Jam API](https://www.jamapi.xyz/) Turn any site into a JSON accessible api using CSS selectors
+- [Web Push Book](https://web-push-book.gauntface.com/) Booklet on implementing push for the web :books:
+- [HTML Reference](http://htmlreference.io/) A free guide to HTML, featuring all elements and attributes
+- [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/) CSS shapes using a single HTML element :books:
+- [Yeoman](http://yeoman.io/) The web's scaffolding tool for modern webapps
+- [Surge](https://surge.sh/) Static web publishing for Front-End Developers
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
@@ -69,6 +74,7 @@ Helpful
 - [Sans Francisco](http://sansfrancis.co/) A collection of design tools
 - [The Stocks](http://thestocks.im/)
 - [Style Guides](http://styleguides.io/) Website style guide resources
+- [Hero Patterns](http://www.heropatterns.com/) A collection of repeatable SVG background patterns
 
 ### Colors
 - [Color Claim](http://www.vanschneider.com/colors/) Tobias van Schneider's favorite color combinations
