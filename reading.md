@@ -29,6 +29,8 @@ Reading
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 - [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 - [How to actually ship software that actually works](http://mir.aculo.us/2015/08/25/how-to-actually-ship-software-that-actually-works/) by Thomas Fuchs
+- [Spotify’s Design Lead on Why Side Projects Should Be Stupid](http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/)
+- [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack) by Scott Hurff
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
@@ -36,6 +38,8 @@ Reading
 
 ### Interesting
 - [Unsolicited Dating Advice](http://joelcalifa.com/blog/unsolicited-dating-advice/) by Joel Califa (don't let the title fool you, it's about dates as in time)
+- [How I Wrote Arrival (and What I Learned Doing It)](http://www.talkhouse.com/how-i-wrote-arrival/) by Eric Heisserer
+- [The Scientists Who Make Apps Addictive](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive)
 
 ## Studies
 - [Emoji Trends in Business Messaging, 2015-2016](https://blog.intercomassets.com/wp-content/uploads/2016/12/09135612/Intercom-Emoji_Trends_in_Business_Messaging_2015-2016.pdf) by Intercom
