@@ -63,3 +63,4 @@ Reading
 - [ ] [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](http://a.co/3gTtcxG) by Steven D. Levitt and  
 Stephen J. Dubner
 - [ ] [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) by Abby Covert
+- [ ] [Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas](http://a.co/exoVWI2) by Edward De Bono
