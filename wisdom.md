@@ -13,3 +13,5 @@ Sometimes I find inspirational utterances from the weirdest places.
 - "Everyday I go to work and I’m amazed this shit still works. I mean you have sooooooooo much code. And you have some code in Seattle. Some code in San Francisco. Portland. Dublin. And it goes…it goes through the internet! And then you can order a Pillow Pet!" - my friend working at Amazon
 - "I’d rather put out a campfire with my face" - a coworker on especially tough projects
 - "It's a painful way to learn but at least you're learning. They're learning too but they don't want you to know about it." - a coworker on tough managers
+- "To not give a fuck is to stare down life’s most terrifying and difficult challenges and still take action." - [book](http://a.co/1DzM6Xn)
+- "Vocabulary is a matter of confidence." - Modern Family
