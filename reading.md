@@ -12,6 +12,7 @@ Reading
 - [Tobias Van Schneider](http://www.vanschneider.com/blog/)
 - [Joel Califa](http://joelcalifa.com/blog/)
 - [Nolan Lawson](https://nolanlawson.com/), also by Nolan: [Pocket JavaScript](http://www.pocketjavascript.com/)
+- [Ethan Marcotte](https://ethanmarcotte.com/wrote/)
 
 ## Articles
 ### Work
@@ -31,6 +32,7 @@ Reading
 - [How to actually ship software that actually works](http://mir.aculo.us/2015/08/25/how-to-actually-ship-software-that-actually-works/) by Thomas Fuchs
 - [Spotify’s Design Lead on Why Side Projects Should Be Stupid](http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/)
 - [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack) by Scott Hurff
+- [The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/) by Poppie Pack
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
@@ -55,6 +57,7 @@ Reading
 - [x] [CSS Secrets](http://a.co/er9Al8H) by Lea Verou
 - [x] [The Airbnb Story](http://a.co/a9zjE4N) by Leigh Gallagher
 - [x] [Do Fly: Find your way. Make a living. Be your best self.](http://a.co/fqaPVzZ) by Gavin Strange
+- [ ] [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://a.co/1DzM6Xn) by Mark Manson
 - [ ] [Real-World Machine Learning](http://a.co/flsQEr8) by Henrik Brink et al
 - [ ] [How to Win Friends and Influence People](http://a.co/dqTECjl) by Dale Carnegie
 - [ ] [Everything That Remains](http://a.co/4Q8Qy6A) by Joshua Fields Millburn and Ryan Nicodemus
@@ -64,3 +67,4 @@ Reading
 Stephen J. Dubner
 - [ ] [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) by Abby Covert
 - [ ] [Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas](http://a.co/exoVWI2) by Edward De Bono
+- [ ] [The Design of Everyday Things](http://a.co/hQ9Q0SZ) by Don Norman
