@@ -4,7 +4,7 @@ Sometimes I find inspiration from the weirdest places.
 
 - "Strong beliefs, loosely held" - Etsy job listing
 - "Golden opportunities aren't always golden." - HSBC ad
-- "The more we migrate to a technical world, the more sublime nature is to behold." - Cabin Porn
+- "The more we migrate to a technical world, the more sublime nature is to behold." - [book](http://a.co/bO5YDtS)
 - "Any legitimate claim we may have to expertise has a shelf life of about three days. Keeps us busy and keeps our egos in check." - [article](https://www.newfangled.com/responsive-design-at-10000-feet/)
 - On phones, "We’re going to spend the rest of our lives learning how they have changed how we live." - ^ same article
 - "The future is already here. It's just not evenly distributed." - meeting with my manager
