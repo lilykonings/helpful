@@ -7,4 +7,4 @@ Online courses I'm enrolled in or plan on doing so
 - [x] [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7)
 - [x] [Javascript 30](https://javascript30.com/)
 - [ ] [Front End Center](https://frontend.center/)
-- [ ] [Flexbox Zombies](http://flexboxzombies.com/)
+- [x] [Flexbox Zombies](http://flexboxzombies.com/)
