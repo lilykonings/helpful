@@ -1,6 +1,6 @@
 Licks of Wisdom
 ======
-Sometimes I find inspirational utterances from the weirdest places.
+Sometimes I find inspiration from the weirdest places.
 
 - "Strong beliefs, loosely held" - Etsy job listing
 - "Golden opportunities aren't always golden." - HSBC ad
