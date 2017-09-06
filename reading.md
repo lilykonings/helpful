@@ -33,17 +33,21 @@ Reading
 - [Spotify’s Design Lead on Why Side Projects Should Be Stupid](http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/)
 - [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack) by Scott Hurff
 - [The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/) by Poppie Pack
+- [Your UI Isn't a Disney Movie](https://startupsventurecapital.com/your-ui-isn-t-a-disney-movie-703f7fbd24d2) by Sophie Paxton
 - [How to Give People What They Want and Not Lose Your Soul](https://medium.com/yplan-eng/how-to-give-people-what-they-want-and-not-loose-your-soul-b160712de2e) by Karolis Kosas (misleading title, more a detailed case study of filter and sort)
 - [Skeuomorphism is Dead, Long Live Skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
 - [Positive remote working habit - a morning routine](https://rachsmith.com/2016/positive-remote-habits-morning-routine) by Rachael Smith
+- [Designing Your Ideal Life](https://medium.com/@kemcelroy/designing-your-ideal-life-38a427beb488) by Kathryn McElroy
 
 ### Interesting
 - [Unsolicited Dating Advice](http://joelcalifa.com/blog/unsolicited-dating-advice/) by Joel Califa (don't let the title fool you, it's about dates as in time)
 - [How I Wrote Arrival (and What I Learned Doing It)](http://www.talkhouse.com/how-i-wrote-arrival/) by Eric Heisserer
 - [The Scientists Who Make Apps Addictive](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive)
+- [Call Me Adele](https://medium.com/@wipaweeeeee/call-me-adele-f37162b6ffe5) by Wipawe Sirikolkarn
+- [A Wild Vision of a Future Run By Amazon and Whole Foods](https://www.fastcodesign.com/90137320/a-wild-vision-of-a-future-run-by-amazon-and-whole-foods)
 
 ## Studies
 - [Emoji Trends in Business Messaging, 2015-2016](https://blog.intercomassets.com/wp-content/uploads/2016/12/09135612/Intercom-Emoji_Trends_in_Business_Messaging_2015-2016.pdf) by Intercom
@@ -60,11 +64,11 @@ Reading
 - [x] [CSS Secrets](http://a.co/er9Al8H) by Lea Verou
 - [x] [The Airbnb Story](http://a.co/a9zjE4N) by Leigh Gallagher
 - [x] [Do Fly: Find your way. Make a living. Be your best self.](http://a.co/fqaPVzZ) by Gavin Strange
-- [ ] [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://a.co/1DzM6Xn) by Mark Manson
+- [x] [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://a.co/1DzM6Xn) by Mark Manson
 - [ ] [Real-World Machine Learning](http://a.co/flsQEr8) by Henrik Brink et al
 - [ ] [How to Win Friends and Influence People](http://a.co/dqTECjl) by Dale Carnegie
 - [ ] [Everything That Remains](http://a.co/4Q8Qy6A) by Joshua Fields Millburn and Ryan Nicodemus
-- [ ] [Hatching Twitter](http://a.co/85pe0wB) by Nick Bilton
+- [x] [Hatching Twitter](http://a.co/85pe0wB) by Nick Bilton
 - [ ] [Predictably Irrational: The Hidden Forces That Shape Our Decisions](http://a.co/3MAB6cf) by Dan Ariely
 - [ ] [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](http://a.co/3gTtcxG) by Steven D. Levitt and  
 Stephen J. Dubner
