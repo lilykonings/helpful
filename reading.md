@@ -33,6 +33,8 @@ Reading
 - [Spotify’s Design Lead on Why Side Projects Should Be Stupid](http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/)
 - [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack) by Scott Hurff
 - [The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/) by Poppie Pack
+- [How to Give People What They Want and Not Lose Your Soul](https://medium.com/yplan-eng/how-to-give-people-what-they-want-and-not-loose-your-soul-b160712de2e) by Karolis Kosas (misleading title, more a detailed case study of filter and sort)
+- [Skeuomorphism is Dead, Long Live Skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
@@ -50,6 +52,7 @@ Reading
 - [Keeping an eye on recruiter behavior](https://cdn.theladders.net/static/images/basicSite/pdfs/TheLadders-EyeTracking-StudyC2.pdf) by The Ladders
 - [Intercom on Onboarding](https://www.intercom.com/books/onboarding) by Intercom
 - [The ROI of UX](http://cdn2.hubspot.net/hubfs/416708/Ebooks/The_ROI_of_UX_White_Paper_preview.pdf?t=1463779327924) by Punchkick Interactive
+- [Autonomous Systems](http://www.anonymous-press.com/autonomous-systems.pdf) by Karolis Kosas
 
 ## Books
 - [x] [What to Eat](http://a.co/9WyFgzz) by Marion Nestle
