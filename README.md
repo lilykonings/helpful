@@ -43,6 +43,9 @@ Helpful
 - [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/) CSS shapes using a single HTML element :books:
 - [Yeoman](http://yeoman.io/) The web's scaffolding tool for modern webapps
 - [Surge](https://surge.sh/) Static web publishing for Front-End Developers
+- [HTML Reference](http://htmlreference.io/) A free guide to HTML
+- [CSS Reference](http://cssreference.io/) A free visual guide to CSS
+- [Superhero.js](superherojs.com) Collection of articles, videos, and presentations on Javascript
 
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:

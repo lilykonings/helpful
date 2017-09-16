@@ -34,6 +34,7 @@ Reading
 - [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack) by Scott Hurff
 - [The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/) by Poppie Pack
 - [Your UI Isn't a Disney Movie](https://startupsventurecapital.com/your-ui-isn-t-a-disney-movie-703f7fbd24d2) by Sophie Paxton
+- [Getting a Job as a Front End Web Developer](http://blog.danielna.com/getting-a-job-as-a-front-end-web-developer.html) by Daniel Na
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
@@ -72,3 +73,6 @@ Stephen J. Dubner
 - [ ] [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) by Abby Covert
 - [ ] [Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas](http://a.co/exoVWI2) by Edward De Bono
 - [ ] [The Design of Everyday Things](http://a.co/hQ9Q0SZ) by Don Norman
+- [x] [The 4-Hour Workweek](http://a.co/9tofTaI) by Timothy Ferriss
+- [ ] [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke
+- [ ] [Javascript: The Good Parts](http://a.co/i32Yyhj) by Douglas Crockford
