@@ -34,6 +34,8 @@ Reading
 - [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack) by Scott Hurff
 - [The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/) by Poppie Pack
 - [Your UI Isn't a Disney Movie](https://startupsventurecapital.com/your-ui-isn-t-a-disney-movie-703f7fbd24d2) by Sophie Paxton
+- [How to Give People What They Want and Not Lose Your Soul](https://medium.com/yplan-eng/how-to-give-people-what-they-want-and-not-loose-your-soul-b160712de2e) by Karolis Kosas (misleading title, more a detailed case study of filter and sort)
+- [Skeuomorphism is Dead, Long Live Skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)
 - [Getting a Job as a Front End Web Developer](http://blog.danielna.com/getting-a-job-as-a-front-end-web-developer.html) by Daniel Na
 
 ### Life
@@ -55,6 +57,7 @@ Reading
 - [Keeping an eye on recruiter behavior](https://cdn.theladders.net/static/images/basicSite/pdfs/TheLadders-EyeTracking-StudyC2.pdf) by The Ladders
 - [Intercom on Onboarding](https://www.intercom.com/books/onboarding) by Intercom
 - [The ROI of UX](http://cdn2.hubspot.net/hubfs/416708/Ebooks/The_ROI_of_UX_White_Paper_preview.pdf?t=1463779327924) by Punchkick Interactive
+- [Autonomous Systems](http://www.anonymous-press.com/autonomous-systems.pdf) by Karolis Kosas
 
 ## Books
 - [x] [What to Eat](http://a.co/9WyFgzz) by Marion Nestle
