@@ -47,6 +47,10 @@ Helpful
 - [CSS Reference](http://cssreference.io/) A free visual guide to CSS
 - [Superhero.js](superherojs.com) Collection of articles, videos, and presentations on Javascript
 
+### Accessibility
+- [eBay MIND Patterns](https://ebay.gitbooks.io/mindpatterns/) Accessibility patterns for the web
+- [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+
 ### Jekyll
 - [Jekyll Tips](http://jekyll.tips/) :books:
 - [Jekyll Admin](https://github.com/jekyll/jekyll-admin) CMS GUI for Jekyll

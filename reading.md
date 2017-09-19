@@ -37,6 +37,7 @@ Reading
 - [How to Give People What They Want and Not Lose Your Soul](https://medium.com/yplan-eng/how-to-give-people-what-they-want-and-not-loose-your-soul-b160712de2e) by Karolis Kosas (misleading title, more a detailed case study of filter and sort)
 - [Skeuomorphism is Dead, Long Live Skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)
 - [Getting a Job as a Front End Web Developer](http://blog.danielna.com/getting-a-job-as-a-front-end-web-developer.html) by Daniel Na
+- [Creating an Accessibility Engineering Practice](http://blog.danielna.com/2017/09/14/creating-an-accessibility-engineering-practice.html) by Daniel Na
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho
@@ -49,6 +50,7 @@ Reading
 - [The Scientists Who Make Apps Addictive](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive)
 - [Call Me Adele](https://medium.com/@wipaweeeeee/call-me-adele-f37162b6ffe5) by Wipawe Sirikolkarn
 - [A Wild Vision of a Future Run By Amazon and Whole Foods](https://www.fastcodesign.com/90137320/a-wild-vision-of-a-future-run-by-amazon-and-whole-foods)
+- [I am Colorblind and You Can Too!](https://www.bitlog.com/index.php/2015/10/21/transcript-of-i-am-colorblind-and-you-can-too/) by Jake Voytko
 
 ## Studies
 - [Emoji Trends in Business Messaging, 2015-2016](https://blog.intercomassets.com/wp-content/uploads/2016/12/09135612/Intercom-Emoji_Trends_in_Business_Messaging_2015-2016.pdf) by Intercom
