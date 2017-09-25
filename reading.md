@@ -38,6 +38,7 @@ Reading
 - [Skeuomorphism is Dead, Long Live Skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)
 - [Getting a Job as a Front End Web Developer](http://blog.danielna.com/getting-a-job-as-a-front-end-web-developer.html) by Daniel Na
 - [Creating an Accessibility Engineering Practice](http://blog.danielna.com/2017/09/14/creating-an-accessibility-engineering-practice.html) by Daniel Na
+- [Responsive Typography](https://zellwk.com/blog/responsive-typography/) by Zell Liew
 
 ### Life
 - [Want to be a better storyteller? Learn from a comedian](https://crew.co/blog/want-to-be-a-better-storyteller-learn-from-a-comedian/) by Mikael Cho

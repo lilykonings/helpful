@@ -1,5 +1,7 @@
-Courses
+Learning
 ======
+
+## Courses
 Online courses I'm enrolled in or plan on doing so
 
 - [ ] [What the Flexbox](https://flexbox.io/)
